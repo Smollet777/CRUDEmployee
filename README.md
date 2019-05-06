@@ -1,4 +1,18 @@
 # CRUDEmployee
-An application that manages employees. Using MEAN stack simply for practical purposes.
+An application that manages employees(CRUD). Using MEAN stack simply for practical purposes.
 
-### TODO: remove hardcoded base url from service and server.js
+---
+
+**Install**
+create and populate .env file in root folder (see [.env_](.env_));
+npm i && cd client && npm i
+
+**Run**
+
+npm run dev (backend)
+
+- on http://localhost:1337
+
+cd client && ng s -o (frontend) 
+
+- on http://localhost:4200
